@@ -3,8 +3,8 @@ package com.example.codegrafters;
 public class Shape {
     int x;
     int y;
-
-    public Shape(int y, int x) {
+    String color = "hot pink";
+    public Shape(int y, int x, String color) {
         this.y = y;
         this.x = x;
     }
