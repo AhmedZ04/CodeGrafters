@@ -3,8 +3,9 @@ package com.example.codegrafters;
 public class Shape {
     int x;
     int y;
-    String color = "red";
-    
+
+    String color = "Black";
+
     public Shape(int y, int x) {
         this.y = y;
         this.x = x;
